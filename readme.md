@@ -4,7 +4,7 @@ Andare sul file:
 inserire in coda: 
 
 --- esempio ---
-<VirtVirtualHost *:80>
+<VirtualHost *:80>
 DocumentRoot "C:/xampp/htdocs/Esempio"
 ServerName esempio.net
 </VirtualHost>
