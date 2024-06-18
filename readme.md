@@ -31,7 +31,7 @@ CREATE TABLE events (
     start DATE NOT NULL,
     end DATE NOT NULL
 );
-
+```
 
 # Modifica del File di Configurazione
 Infine, modificare il file `db.php` con le credenziali del proprio database.
