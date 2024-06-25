@@ -27,7 +27,7 @@
                     month: 'Mese',
                     listMonth: 'Elenco mese',
                     prev: 'precedente',
-                    next: 'successivo',
+                    next: 'prossimo',
                 },
                 allDayText: 'Tutto il giorno', // Traduzione del testo "all-day"
                 //FINE TRADUZIONE DEI PULSANTI
